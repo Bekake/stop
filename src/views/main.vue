@@ -10,6 +10,7 @@
           <li>Git va APIlar bilan ishlaganman</li>
           <li><a href="https://github.com/Bekake" target="_blank">Github account (codeni ham shu yerda korishingiz mumkin)</a></li>
           <li><a href="https://www.linkedin.com/in/bekzod-izbosarov-3167772a4" target="_blank" >Linkedin account</a></li>
+          <li><a href="https://github.com/Bekake/stop" target="_blank">Codeni ko'rish</a></li>
           <li>
             <p>Organgan dasturlash tillarim:</p>
             <ul>
@@ -46,6 +47,7 @@
           <li>Birinchisi kunlik va soatlik Ob-havo malumotlarini dunyoning barcha shaharlari uchun korsatib beradi(API orqali), design moslashuvchan.</li>
           <li>Ikkinchisi o'zbek, rus, ingliz tillariida yozish tezligingizni tekshirib korishingiz mumkin</li>
           <li>Uchinchisi ko'plab dasturlash tillarida yozish tezligingizni sinab korishingiz mumkin</li>
+          <li>3 va 4 loyihalar komputerda yozish tezligini o'lcha uchun mo'ljallangan</li>
         </ul>
       </li>
     </ol>
